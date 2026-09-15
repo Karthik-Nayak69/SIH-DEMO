@@ -5,7 +5,7 @@ import AlertBanner from './components/AlertBanner'
 import ReportForm from './components/ReportForm'
 import './index.css'
 
-const API = 'http://localhost:8000'
+const API = 'https://sih-demo-backend.onrender.com'
 
 function App() {
   const [zones, setZones] = useState([])
