@@ -1,0 +1,58 @@
+[
+  {
+    "id": "zone_1",
+    "name": "Sohra Road - KM 12",
+    "lat": 25.284,
+    "lng": 91.733,
+    "slope_value": 70,
+    "rainfall": 76,
+    "soil_moisture": 30,
+    "risk_score": 56,
+    "risk_level": "High"
+  },
+  {
+    "id": "zone_2",
+    "name": "Cherrapunji Bypass - KM 5",
+    "lat": 25.27,
+    "lng": 91.72,
+    "slope_value": 85,
+    "rainfall": 84,
+    "soil_moisture": 20,
+    "risk_score": 59,
+    "risk_level": "High"
+  },
+  {
+    "id": "zone_3",
+    "name": "Mawsynram Approach - KM 8",
+    "lat": 25.296,
+    "lng": 91.582,
+    "slope_value": 55,
+    "rainfall": 10,
+    "soil_moisture": 10,
+    "risk_score": 19,
+    "risk_level": "Low"
+  },
+  {
+    "id": "zone_4",
+    "name": "Shillong-Sohra NH6 - KM 22",
+    "lat": 25.31,
+    "lng": 91.76,
+    "slope_value": 40,
+    "rainfall": 25,
+    "soil_moisture": 35,
+    "risk_score": 32,
+    "risk_level": "Moderate"
+  },
+  {
+    "id": "zone_5",
+    "name": "Laitlyngkot Ridge - KM 3",
+    "lat": 25.255,
+    "lng": 91.695,
+    "slope_value": 90,
+    "rainfall": 30,
+    "soil_moisture": 40,
+    "risk_score": 46,
+    "risk_level": "Moderate"
+  }
+]}
+]

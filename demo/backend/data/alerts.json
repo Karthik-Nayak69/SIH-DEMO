@@ -1,0 +1,16 @@
+[
+  {
+    "id": "alert_1",
+    "zone_id": "zone_2",
+    "risk_level": "High",
+    "message": "Simulated SMS sent to District Officer: High risk at Cherrapunji Bypass - KM 5",
+    "timestamp": "2026-09-15T15:45:09Z"
+  },
+  {
+    "id": "alert_2",
+    "zone_id": "zone_1",
+    "risk_level": "High",
+    "message": "Simulated SMS sent to District Officer: High risk at Sohra Road - KM 12",
+    "timestamp": "2026-09-15T16:11:54Z"
+  }
+]
